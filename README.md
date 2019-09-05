@@ -12,4 +12,7 @@ You can clone it and run:
 
 ![](/Images/2.jpg)
 
+
+On a small screen (mobile phone)
+
 ![](/Images/small%20screen.jpg)
